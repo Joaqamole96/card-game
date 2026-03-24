@@ -1,0 +1,23 @@
+Delete points when resolved.
+
+- The standards document must be descriptive enough to not necessitate this section for LLMs.
+- It is suggested to create templates for documents to follow. The standards.md can then be a repository for standards that are too broad to belong in one single template.
+- Consider document versioning in the file name. use the format of X.Y.#.A
+    - X is an integer that indicates a major version that requires ALL documents in the entire project to be synced.
+    - Y is an integer that indicates a minor version that requires documents within the directory or system to be synced.
+    - (#) is similar to Y for further subsystems or subdirectories. It can be repeated as much as necessary.
+    - A is a string (typically an integer, but can be a character or a string of characters and integers) that indicates the version of the current document only. It is not dependent on other documents.
+- I doubt the necessity of examples and filler. All text must be leanest and shortest possible that is also exhaustive, exact, and complete.
+- I moved the contents of start.md to core.md, because it is most appropriate there. Just fix the order later.
+- In actions.md, it says that players can perform actions at the start of any Tick. Realistically, this would only be appropriate if there is a large number of Ticks per Turn, to account for players thinking before executing actions. This would also need a mechanic to pause, play, speed up, and speed down Tick rate (essentially the Time system I drafted before). This idea needs more exploration before it can be proposed. After approval can it be considered official. Actually fuck it go ahead and implement it. Just make Ticks represent a minute symbolically, and multiply Ticks per Turn by 24 (60*24=1440).
+- In leaders.md, you should be able to smite any leader, Figurehead or Tyrant.
+- Consider relationships or internal linking in leaders. Add a sort of reference to who the King or Queen is bethrothed to. This will allow a Province with a King, Queen, and Page-turned-King to get a Queen from a Court card and allow the son to... wait no that's just too confusing.
+    - MAJOR CONSIDERATION: Create the following leader roles: Patriarch (from King card), Matriarch (from Queen card), Prince and Princess (from Page card), Champion and [BLANK] (from Knight card), and Heir (from a Patriarch and Matriarch)
+        - Betrothment: a requisite before any Heir is produced. Only one betrothment per leader at any time; a leader can't be betrothed to more than one.
+        - Patriarch: only one can exist in a Province at a time. Does not evolve. Can be betrothed or re-betrothed (for example, in case of death) to a [BLANK] or Matriarch. Can produce an Heir with a betrothed Matriarch.
+        - Matriarch: only one can exist in a Province at a time. Does not evolve. Can be betrothed or re-betrothed to a Champion or Patriarch. Can produce an Heir with a betrothed Patriarch.
+        - Champion: Can evolve into a Patriarch. Can be betrothed or re-betrothed to a Princess, [BLANK], or Matriarch.
+        - [BLANK]: Can evolve into a Matriarch. Can be betrothed or rebetrothed to a Prince, Champion, or Patriarch
+        - Prince: Can evolve into a Champion. Can be betrothed or re-betrothed to a Princess or [BLANK].
+        - Princess: Can evolve into an [BLANK]. Can be betrothed or re-betrothed to a Prince or Champion.
+- I don't get why we need a README for the tarot. Just use tarot.md or something.

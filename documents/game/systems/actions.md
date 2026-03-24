@@ -1,13 +1,11 @@
 # Actions and Queues
-
-This document is part of the Game Rules. It defines how players declare actions and how pending actions are handled.
+This document defines how players declare actions and how pending actions are handled.
 
 ---
 
-## ARTICLE 6 – ACTIONS AND QUEUES
+## ARTICLE 1 – ACTIONS AND QUEUES
 
-### §6.1 – Action Declaration
-
+### §1.1 – Action Declaration
 1. At the start of each Tick, each Player shall declare all actions to be performed by their forces during that Tick.
 2. Permitted actions include, but are not limited to:
    - Playing cards (per Core Rules, Article 1, §1.2.1);
@@ -19,8 +17,7 @@ This document is part of the Game Rules. It defines how players declare actions 
    - Trading (cost: one (1) Tick).
 3. All actions declared for the same Tick resolve simultaneously.
 
-### §6.2 – Pending Queue
-
+### §1.2 – Pending Queue
 1. If an action cannot be performed immediately because a required resource is occupied, the action shall be placed in a pending queue.
 2. Pending queues exist per resource type (e.g., workers per settlement, military movement per unit).
 3. The game system automatically processes queued actions in the order they were placed when the resource becomes free.
