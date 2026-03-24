@@ -1,6 +1,5 @@
 Delete points when resolved.
 
-- The standards document must be descriptive enough to not necessitate this section for LLMs.
 - It is suggested to create templates for documents to follow. The standards.md can then be a repository for standards that are too broad to belong in one single template.
 - Consider document versioning in the file name. use the format of X.Y.#.A
     - X is an integer that indicates a major version that requires ALL documents in the entire project to be synced.
