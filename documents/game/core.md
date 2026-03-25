@@ -1,5 +1,6 @@
-# Core Rules
+VERSION: 1.0.1
 
+# Core Rules
 This document defines the fundamental structure of turns, time, and card play.
 
 ---

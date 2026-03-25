@@ -1,3 +1,5 @@
+VERSION: 1.0.0.1
+
 # Actions and Queues
 This document defines how players declare actions and how pending actions are handled.
 

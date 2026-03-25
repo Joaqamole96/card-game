@@ -1,5 +1,6 @@
-# Events
+VERSION: 1.0.0.1
 
+# Events
 This document defines the trigger conditions and resolution of events.
 
 ---

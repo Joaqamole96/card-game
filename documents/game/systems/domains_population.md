@@ -1,3 +1,5 @@
+VERSION: 1.0.0.1
+
 # Domains and Population
 This document defines the Domain scores and Population mechanics.
 

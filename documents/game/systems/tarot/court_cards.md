@@ -1,5 +1,6 @@
-# Court Cards
+VERSION: 1.0.0.0.1
 
+# Court Cards
 This document defines the rules for Court cards (Page, Knight, Queen, King) and their interaction with Figureheads.
 
 ---

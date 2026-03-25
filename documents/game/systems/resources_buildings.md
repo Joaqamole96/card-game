@@ -1,5 +1,4 @@
 # Resources and Buildings
-
 This document defines resource generation and building mechanics.
 
 ---

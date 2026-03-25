@@ -1,3 +1,5 @@
+VERSION: 1.1
+
 # Standards for Legalistic Game Rules Documents (standards.md)
 
 ## 1. Purpose

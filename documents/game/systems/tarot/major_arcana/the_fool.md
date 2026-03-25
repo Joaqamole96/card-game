@@ -1,5 +1,6 @@
-# The Fool
+VERSION: 1.0.0.0.0.1
 
+# The Fool
 This document defines the rules for the Major Arcana card **The Fool**.
 
 ---

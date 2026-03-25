@@ -1,5 +1,6 @@
-# Leaders: Figureheads, Tyrants, and Lineage
+VERSION: 1.0.0.1
 
+# Leaders: Figureheads, Tyrants, and Lineage
 This document defines the rules for Figureheads, Tyrants, and the lineage (court evolution) system.
 
 ---

@@ -1,5 +1,6 @@
-# Minor Arcana (Ace–10)
+VERSION: 1.0.0.0.1
 
+# Minor Arcana (Ace–10)
 This document defines the rules for numbered cards (Ace through 10) by suit.
 
 ---

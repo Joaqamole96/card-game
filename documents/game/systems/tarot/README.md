@@ -1,3 +1,5 @@
+VERSION: 1.0.0.0.1
+
 # Tarot Master Document
 
 This document is the master reference for all Tarot card mechanics. It defines common rules that apply to all cards. Detailed rules for individual cards are contained in sub‑documents.
