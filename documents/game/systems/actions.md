@@ -14,7 +14,8 @@ This document defines how players declare actions and how pending actions are ha
    - Moving units (cost: one (1) Tick per province entered);
    - Engaging in combat (cost: one (1) Tick per battle);
    - Assigning workers to construction (cost: allocated per Tick);
-   - Smiting a Tyrant (cost: one (1) Tick);
+   - Smiting a leader (cost: one (1) Tick);
+   - Betrothing two leaders (cost: one (1) Tick);
    - Recruiting units (cost: one (1) to three (3) Ticks);
    - Trading (cost: one (1) Tick).
 3. All actions declared for the same Tick resolve simultaneously.
