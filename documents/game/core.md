@@ -17,7 +17,7 @@ In these rules, unless the context otherwise requires:
 
 ### §1.1 – Turn and Tick
 1. **Turn**: A Turn represents a period of twenty‑four (24) hours within the game world.
-2. **Tick**: Each Turn is divided into twenty‑four (24) Ticks. One Tick corresponds to one (1) hour.
+2. **Tick**: Each Turn is divided into one thousand, four hundred and forty (1,440) Ticks. One Tick corresponds to one (1) minute.
 
 ### §1.2 – Turn Sequence
 The conduct of each Turn shall follow the sequence set forth in this Section.
@@ -30,7 +30,7 @@ The conduct of each Turn shall follow the sequence set forth in this Section.
 5. After all card effects have resolved, the Turn proceeds to Tick Resolution.
 
 #### 1.2.2 – Tick Resolution Phase
-1. The Tick Resolution Phase consists of twenty‑four (24) consecutive Ticks, numbered 1 through 24.
+1. The Tick Resolution Phase consists of one thousand, four hundred and forty (1,440) consecutive Ticks, numbered 1 through 1,440.
 2. **At the beginning of each Tick**, every Player shall declare all actions (as defined in the Actions document) that their forces will perform during that Tick.
 3. All declared actions resolve **simultaneously** at the end of the Tick.
 4. If an action cannot be completed because a target or required resource is unavailable at the moment of resolution, the action fails and produces no effect.
@@ -38,7 +38,7 @@ The conduct of each Turn shall follow the sequence set forth in this Section.
 6. After resolution, the Tick counter advances by one (1).
 
 #### 1.2.3 – End of Turn Phase
-1. After the twenty‑fourth Tick has resolved, the Turn ends.
+1. After the one thousand, four hundred and fortieth Tick has resolved, the Turn ends.
 2. Any actions placed in a pending queue (see Actions document, §6.2) are carried over to the next Turn and processed in order as resources become available.
 3. The game system shall perform cleanup, check victory and loss conditions, and advance the Turn counter by one (1).
 

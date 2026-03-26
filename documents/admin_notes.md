@@ -1,6 +1,6 @@
 VERSION: 1.1
 
-Delete points when resolved.
+The user will delete points when resolved.
 
 - It is suggested to create templates for documents to follow. The standards.md can then be a repository for standards that are too broad to belong in one single template.
 - Consider document versioning in the file name. use the format of X.Y.#.A
